@@ -35,10 +35,6 @@ I'm a Computer Science student at Narula Institute of Technology with a passion 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="30px" alt="Milky Way" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
 <table align="center" border="0">
   <tr>
     <td align="center" width="25%">
@@ -56,11 +52,11 @@ I'm a Computer Science student at Narula Institute of Technology with a passion 
       <span>Robust Architecture</span>
     </td>
     <td align="center" width="25%">
-      <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="100px" height="100px" alt="DevOps"/>
+      <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="100px" height="100px" alt="Database"/>
       <br />
-      <strong>DevOps</strong>
+      <strong>Database</strong>
       <br />
-      <span>CI/CD Pipeline Maestro</span>
+      <span>Data Modeling & Optimization</span>
     </td>
     <td align="center" width="25%">
       <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" width="100px" height="100px" alt="Cloud"/>
@@ -80,11 +76,6 @@ I'm a Computer Science student at Narula Institute of Technology with a passion 
       <td width="50%">
         <h3 align="center">Virtual Herbal Garden 🌿</h3>
         <p align="center">
-          <a href="https://github.com/Manaswita10/Virtual-Herbal-Garden" target="_blank">
-            <img src="https://i.imgur.com/Q2aOhXX.gif" width="100%" alt="Virtual Herbal Garden"/>
-          </a>
-        </p>
-        <p align="center">
           Immersive 3D experience with interactive plant models and e-commerce
         </p>
         <p align="center">
@@ -101,11 +92,6 @@ I'm a Computer Science student at Narula Institute of Technology with a passion 
       </td>
       <td width="50%">
         <h3 align="center">Movie Watchlist 🎬</h3>
-        <p align="center">
-          <a href="https://github.com/Arshavi-03/movie-watchlist-.git" target="_blank">
-            <img src="https://i.imgur.com/hUPSWVV.gif" width="100%" alt="Movie Watchlist App"/>
-          </a>
-        </p>
         <p align="center">
           Type-safe movie tracking platform with personalized recommendations
         </p>
