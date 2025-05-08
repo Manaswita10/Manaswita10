@@ -1,15 +1,12 @@
 # 👩‍💻 Manaswita Chakraborty
 
 <div align="center">
-  
-# 💫 Manaswita Chakraborty
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=7B42BC&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;AWS+Cloud+Engineer;Problem+Solver)](https://git.io/typing-svg)
-
+  <a href="https://github.com/Manaswita10">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=300&section=header&text=Manaswita%20Chakraborty&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AWS%20Cloud%20Engineer&descSize=25&descAlignY=55&animation=fadeIn" width="100%" alt="Header"/>
+  </a>
 </div>
 
-<div align="center">
-  
+<p align="center">
   <a href="https://manaswita-portfolio-1910.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
@@ -22,8 +19,7 @@
   <a href="mailto:manaswita.chakraborty29@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  
-</div>
+</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Manaswita10&style=flat-square&color=blueviolet" alt="Profile Views"/>
@@ -32,7 +28,7 @@
 <br>
 
 <p align="center">
-  <b>Full Stack Developer & AWS Cloud Engineer, passionate about building robust web applications with a focus on user experience and scalability.</b>
+  <b>Creating innovative web experiences with a focus on performance, scalability, and user-centric design. Passionate about leveraging cutting-edge technologies to build powerful applications.</b>
 </p>
 
 <!-- Tech Stack Section -->
