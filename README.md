@@ -6,10 +6,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://i.kickstarter.com/assets/032/144/769/7c8a62bc2bc822ba5965440bf2493af6_original.gif?fit=scale-down&origin=ugc&q=92&v=1611699449&width=680&sig=nKMFQfmDuB3%2Ft7CEoXnDUrRgNOioHSWaYxWObV9K8dQ%3D" alt="Laptop" width="250" />
-</div>
-
 <p align="center">
   <a href="https://manaswita-portfolio-1910.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
