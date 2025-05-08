@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/https://i.kickstarter.com/assets/032/144/769/7c8a62bc2bc822ba5965440bf2493af6_original.gif?fit=scale-down&origin=ugc&q=92&v=1611699449&width=680&sig=nKMFQfmDuB3%2Ft7CEoXnDUrRgNOioHSWaYxWObV9K8dQ%3D" alt="Laptop" width="125" />
+  <img src="https://i.kickstarter.com/assets/032/144/769/7c8a62bc2bc822ba5965440bf2493af6_original.gif?fit=scale-down&origin=ugc&q=92&v=1611699449&width=680&sig=nKMFQfmDuB3%2Ft7CEoXnDUrRgNOioHSWaYxWObV9K8dQ%3D" alt="Laptop" width="250" />
 </div>
 
 <p align="center">
