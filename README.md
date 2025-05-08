@@ -1,207 +1,169 @@
-# 👩‍💻 Manaswita Chakraborty
+# <div align="center">MANASWITA CHAKRABORTY</div>
 
 <div align="center">
-  <a href="https://github.com/Manaswita10">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=300&section=header&text=Manaswita%20Chakraborty&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20&descSize=25&descAlignY=55&animation=fadeIn" width="100%" alt="Header"/>
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://manaswita-portfolio-1910.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/manaswita-chakraborty-64b8aa286">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/Manaswita10">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="mailto:manaswita.chakraborty29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manaswita10&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Next.js+%26+React+Specialist;AWS+Cloud+Practitioner;Three.js+Enthusiast)](https://git.io/typing-svg)
+  
+  [<img src="https://img.shields.io/badge/Portfolio-141449?style=for-the-badge&logo=About.me&logoColor=white" />](https://manaswita-portfolio-1910.vercel.app/) 
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manaswita-chakraborty-64b8aa286) 
+  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Manaswita10) 
+  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:manaswita.chakraborty29@gmail.com)
 </div>
 
 <br>
 
 <p align="center">
-  <b>Creating innovative web experiences with a focus on performance, scalability, and user-centric design. Passionate about leveraging cutting-edge technologies to build powerful applications.</b>
+  <a href="https://github.com/Manaswita10">
+    <img src="https://github-profile-trophy.vercel.app/?username=Manaswita10&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" width="100%" alt="Trophy"/>
+  </a>
 </p>
 
-<!-- Tech Stack Section -->
+<br>
 
-
-## 🌟 About Me
-
-I'm a Computer Science student at Narula Institute of Technology with a passion for building innovative web applications. Specializing in Full Stack development with a focus on Next.js, React, and Cloud technologies. I love creating immersive digital experiences and solving complex problems through clean, efficient code.
-
----
-
-## ⚡ Skills & Technologies
+## <div align="center">⚡ TECH STACK & EXPERTISE ⚡</div>
 
 <div align="center">
-  
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Frontend</h3>
-      <div align="center">
-        <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-        <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
-        <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-        <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-        <a href="https://threejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/threejs.svg" alt="Three.js" height="50" /></a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,mongodb,threejs,tailwind,aws" /><br>
+  <img src="https://skillicons.dev/icons?i=javascript,python,cpp,java,mysql,docker,git,figma,vercel" />
+</div>
+
+<br>
+
+## <div align="center">✨ SIGNATURE PROJECTS ✨</div>
+
+<table border="0">
+ <tr>
+    <td width="50%">
+      <h3 align="center">Virtual Herbal Garden 🌿</h3>
+      <div align="center">  
+        <a href="https://github.com/Manaswita10/Virtual-Herbal-Garden" target="_blank">
+          <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Project Banner" width="100%"/>
+        </a>
+        <br>
+        <p>
+          <a href="https://github.com/Manaswita10/Virtual-Herbal-Garden" target="_blank">
+            <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>  
+          <a href="https://youtu.be/zp1v3EghRg4?si=PV1mf2a0G2kjQsyA" target="_blank">
+            <img src="https://img.shields.io/badge/DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Three.js, Next.js, AWS, MongoDB, WebGL</strong></p>
+        <p>Immersive 3D garden experience with interactive plant models and integrated e-commerce. 75% engagement boost & 65% reduced latency.</p>
       </div>
     </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Backend</h3>
-      <div align="center">
-        <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-        <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
-        <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-        <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-        <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
-        <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">DevOps & Tools</h3>
-      <div align="center">
-        <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
-        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-        <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-        <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-        <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-        <a href="https://polygon.technology/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/P/polygon-matic-logo-1DFDA3A3A8-seeklogo.com.png" alt="Polygon" height="50" /></a>
+    <td width="50%">
+      <h3 align="center">Movie Watchlist 🎬</h3>
+      <div align="center">  
+        <a href="https://github.com/Arshavi-03/movie-watchlist-.git" target="_blank">
+          <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Project Banner" width="100%"/>
+        </a>
+        <br>
+        <p>
+          <a href="https://github.com/Arshavi-03/movie-watchlist-.git" target="_blank">
+            <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>  
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE-FF5722?style=for-the-badge&logo=web&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Next.js, TypeScript, Node.js, MongoDB, JWT</strong></p>
+        <p>Type-safe movie platform featuring personalized recommendations. Custom algorithm analyzing user preferences with robust auth flow.</p>
       </div>
     </td>
   </tr>
 </table>
 
-</div>
+<br>
 
-
-
----
-
-## 📂 Signature Projects
+## <div align="center">🚀 CORE COMPETENCIES 🚀</div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">
-          <img src="https://img.icons8.com/fluency/48/000000/film-reel.png" width="25"/> 
-          Movie Watchlist
-        </h3>
-        <p align="center">
-          <a href="https://github.com/Arshavi-03/movie-watchlist-.git" target="_blank">
-            <img src="https://i.imgur.com/hUPSWVV.gif" width="100%" alt="Movie Watchlist App"/>
-          </a>
-        </p>
-        <p align="center">
-          Type-safe movie tracking platform with personalized recommendations
-        </p>
-        <p align="center">
-          <strong>Next.js · TypeScript · Node.js · MongoDB · JWT</strong>
-        </p>
-        <p align="center">
-          <a href="https://github.com/Arshavi-03/movie-watchlist-.git" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-          </a>  
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=web"/>
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">
-          <img src="https://img.icons8.com/color/48/000000/plant-under-sun.png" width="25"/> 
-          Virtual Herbal Garden
-        </h3>
-        <p align="center">
-          <a href="https://github.com/Manaswita10/Virtual-Herbal-Garden" target="_blank">
-            <img src="https://i.imgur.com/Q2aOhXX.gif" width="100%" alt="Virtual Herbal Garden"/>
-          </a>
-        </p>
-        <p align="center">
-          Immersive 3D experience with interactive plant models and e-commerce
-        </p>
-        <p align="center">
-          <strong>Three.js · Next.js · AWS · MongoDB · WebGL</strong>
-        </p>
-        <p align="center">
-          <a href="https://github.com/Manaswita10/Virtual-Herbal-Garden" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-          </a>
-          <a href="https://youtu.be/zp1v3EghRg4?si=PV1mf2a0G2kjQsyA" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  
+| Frontend Development | Backend Architecture | DevOps & Cloud | Creative Toolkit |
+|:------------------:|:------------------:|:-------------:|:-------------:|
+| **Next.js** Scalable SSR/SSG | **Node.js** API Systems | **AWS** Cloud Solutions | **Three.js** 3D Visuals |
+| **React** Component Design | **MongoDB** Data Modeling | **Docker** Containerization | **WebGL** Graphics Programming |
+| **TypeScript** Type Safety | **Express.js** RESTful APIs | **CI/CD** Deployment Pipelines | **Tailwind CSS** Utility-First Design |
+| **Responsive Design** Mobile-First | **Authentication** JWT/OAuth | **Git** Version Control | **3D Optimization** Performance |
+
 </div>
 
-## 🔥 Project Highlights
+<br>
 
-### 🎬 Movie Watchlist App
-- **Advanced Type Safety** - Comprehensive TypeScript implementation ensuring robust code quality
-- **Intelligent Recommendations** - Custom algorithm analyzing user preferences for personalized suggestions
-- **Seamless User Experience** - Mobile-first responsive design with intuitive UI/UX principles
-- **Secure Authentication Flow** - JWT implementation with HTTP-only cookies and refresh token rotation
-
-### 🌿 Virtual Herbal Garden
-- **3D Optimization Revolution** - 75% increase in user engagement through optimized 3D rendering
-- **Cloud Architecture Excellence** - AWS implementation reducing content delivery latency by 65%
-- **Database Performance Engineering** - Custom MongoDB indexing reducing load times by 40%
-- **Security Protocol Implementation** - Zero breaches across 50K+ user sessions with robust auth system
-
----
-
-## 📚 Education
-
-- **B.Tech in Computer Science & Engineering** | GPA: 8.52
-  *Narula Institute of Technology (2022-2026)*
-
-- **Higher Secondary Education** | 86%
-  *Sudhir Memorial Institute CBSE (2020-2022)*
-
-- **Secondary Education** | 93%
-  *St. Claret School ICSE (2018-2020)*
-
----
-
-## 🏆 Achievements
-
-- AWS Cloud Practitioner CLF-CO2 2025
-- Node.js MongoDB Complete Bootcamp
-- Object-Oriented Data Structures in C++
-- Introduction to Interactive Python Programming
-
----
-
-
-
-## 📬 Connect With Me
+## <div align="center">📊 GITHUB ANALYTICS 📊</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manaswita-chakraborty-64b8aa286"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Manaswita10"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://manaswita-portfolio-1910.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:manaswita.chakraborty29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Manaswita10">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Manaswita10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manaswita10&layout=compact&langs_count=8&theme=radical"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <a href="https://github.com/Manaswita10">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manaswita10&theme=radical&hide_border=true" width="75%"/>
+  </a>
 </p>
 
----
+<br>
 
-<p align="center">
-  <em>✨ Building the digital future through code, creativity, and innovation ✨</em>
-</p>
+## <div align="center">📚 EDUCATIONAL BACKGROUND 📚</div>
+
+<div align="center">
+  
+| Degree | Institution | Year | Highlight |
+|:------:|:-----------:|:----:|:---------:|
+| **B.Tech in CSE** | Narula Institute of Technology | 2022-2026 | GPA: 8.52 |
+| **Higher Secondary** | Sudhir Memorial Institute CBSE | 2020-2022 | 86% |
+| **Secondary** | St. Claret School ICSE | 2018-2020 | 93% |
+
+</div>
+
+<br>
+
+## <div align="center">🏆 CERTIFICATIONS & ACHIEVEMENTS 🏆</div>
+
+<div align="center">
+  
+|   |   |
+|:-:|:-:|
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | **AWS Cloud Practitioner CLF-CO2 2025** |
+| ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | **Node.js MongoDB Complete Bootcamp** |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | **Object-Oriented Data Structures in C++** |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | **Introduction to Interactive Python Programming** |
+
+</div>
+
+<br>
+
+## <div align="center">📫 CONNECT WITH ME 📫</div>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/manaswita-chakraborty-64b8aa286" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:manaswita.chakraborty29@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://manaswita-portfolio-1910.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/Manaswita10" target="_blank">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=100&section=footer&text=Building%20the%20digital%20future&fontSize=24&fontAlignY=80" width="100%"/>
+</div>
