@@ -1,11 +1,17 @@
 # 👩‍💻 Manaswita Chakraborty
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7A3E9&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AWS+Cloud+Practitioner;Computer+Science+Student" alt="Typing SVG" />
+  <a href="https://github.com/Manaswita10">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Manaswita%20Chakraborty&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" alt="Header"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manaswita10&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=ff69b4&style=flat&logo=github&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Manaswita10" alt="Total Stars">
+  <img src="https://komarev.com/ghpvc/?username=Manaswita10&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  <a href="https://manaswita-portfolio-1910.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-9cf?logo=firefox" alt="Portfolio"/>
+  </a>
 </p>
 
 ## 🌟 About Me
@@ -14,18 +20,68 @@ I'm a Computer Science student at Narula Institute of Technology with a passion 
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Arsenal
 
-```javascript
-const manaswita = {
-  languages: ["JavaScript", "TypeScript", "Python", "C++", "Java"],
-  frontEnd: ["React.js", "Next.js", "HTML5", "TailwindCSS", "Three.js"],
-  backEnd: ["Node.js", "Express.js", "RESTful APIs"],
-  databases: ["MongoDB", "MySQL"],
-  cloud: ["AWS S3", "AWS EC2", "AWS Lambda", "CloudFront", "DynamoDB"],
-  tools: ["Git", "VS Code", "Polygon", "AWS CLI"]
-};
-```
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>💻 Core Languages</h3>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3 align="center">🌐 Frontend Galaxy</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white">
+        <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3 align="center">⚙️ Backend Powerhouse</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white">
+        <img src="https://img.shields.io/badge/REST_APIs-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3 align="center">☁️ Cloud & Database Command</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+        <img src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3 align="center">🛠️ Development Arsenal</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+        <img src="https://img.shields.io/badge/Polygon-%237B42BC.svg?style=for-the-badge&logo=polygon&logoColor=white">
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manaswita10&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="Manaswita's trophies" />
+</p>
 
 ---
 
