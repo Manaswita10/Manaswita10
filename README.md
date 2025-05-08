@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/Manaswita10">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=300&section=header&text=Manaswita%20Chakraborty&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AWS%20Cloud%20Engineer&descSize=25&descAlignY=55&animation=fadeIn" width="100%" alt="Header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=300&section=header&text=Manaswita%20Chakraborty&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Developer%20&descSize=25&descAlignY=55&animation=fadeIn" width="100%" alt="Header"/>
   </a>
 </div>
 
@@ -16,7 +16,7 @@
   <a href="https://github.com/Manaswita10">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="mailto:manaswita.chakraborty29@gmail.com">
+  <a href="mailto:manaswita.ch10@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
