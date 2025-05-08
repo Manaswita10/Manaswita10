@@ -1,18 +1,42 @@
 # 👩‍💻 Manaswita Chakraborty
 
-<p align="center">
-  <a href="https://github.com/Manaswita10">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Manaswita%20Chakraborty&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" alt="Header"/>
+<div align="center">
+  
+# 💫 Manaswita Chakraborty
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=7B42BC&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;AWS+Cloud+Engineer;Problem+Solver)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  
+  <a href="https://manaswita-portfolio-1910.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/manaswita-chakraborty-64b8aa286">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/Manaswita10">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="mailto:manaswita.chakraborty29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manaswita10&style=flat-square&color=blueviolet" alt="Profile Views"/>
+</div>
+
+<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=ff69b4&style=flat&logo=github&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Manaswita10" alt="Total Stars">
-  <img src="https://komarev.com/ghpvc/?username=Manaswita10&style=flat-square&color=blueviolet" alt="Profile Views"/>
-  <a href="https://manaswita-portfolio-1910.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-9cf?logo=firefox" alt="Portfolio"/>
-  </a>
+  <b>Full Stack Developer & AWS Cloud Engineer, passionate about building robust web applications with a focus on user experience and scalability.</b>
 </p>
+
+<!-- Tech Stack Section -->
+
 
 ## 🌟 About Me
 
@@ -20,143 +44,126 @@ I'm a Computer Science student at Narula Institute of Technology with a passion 
 
 ---
 
-## 🚀 Tech Arsenal
+## ⚡ Skills & Technologies
 
-<table align="center">
+<div align="center">
+  
+<table>
   <tr>
-    <td align="center">
-      <h3>💻 Core Languages</h3>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-      </p>
+    <td valign="top" width="33%">
+      <h3 align="center">Frontend</h3>
+      <div align="center">
+        <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+        <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
+        <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+        <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
+        <a href="https://threejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/threejs.svg" alt="Three.js" height="50" /></a>
+      </div>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <h3 align="center">🌐 Frontend Galaxy</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white">
-        <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white">
-      </p>
+    <td valign="top" width="33%">
+      <h3 align="center">Backend</h3>
+      <div align="center">
+        <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+        <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
+        <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
+        <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+        <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
+        <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+      </div>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <h3 align="center">⚙️ Backend Powerhouse</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white">
-        <img src="https://img.shields.io/badge/REST_APIs-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3 align="center">☁️ Cloud & Database Command</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-        <img src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3 align="center">🛠️ Development Arsenal</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
-        <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-        <img src="https://img.shields.io/badge/Polygon-%237B42BC.svg?style=for-the-badge&logo=polygon&logoColor=white">
-      </p>
+    <td valign="top" width="33%">
+      <h3 align="center">DevOps & Tools</h3>
+      <div align="center">
+        <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
+        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+        <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
+        <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+        <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+        <a href="https://polygon.technology/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/P/polygon-matic-logo-1DFDA3A3A8-seeklogo.com.png" alt="Polygon" height="50" /></a>
+      </div>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manaswita10&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="Manaswita's trophies" />
-</p>
+</div>
+
+
 
 ---
 
-## 🛠️ Featured Projects
+## 📂 Signature Projects
 
 <div align="center">
-
-<!-- Movie Watchlist Project Card -->
-<a href="https://github.com/Arshavi-03/movie-watchlist-.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arshavi-03&repo=movie-watchlist-&theme=radical&border_color=fe428e&bg_color=141321" />
-</a>
-
-<!-- Virtual Herbal Garden Project Card -->
-<a href="https://github.com/Manaswita10/Virtual-Herbal-Garden">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Manaswita10&repo=Virtual-Herbal-Garden&theme=radical&border_color=fe428e&bg_color=141321" />
-</a>
-
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">
+          <img src="https://img.icons8.com/fluency/48/000000/film-reel.png" width="25"/> 
+          Movie Watchlist
+        </h3>
+        <p align="center">
+          <a href="https://github.com/Arshavi-03/movie-watchlist-.git" target="_blank">
+            <img src="https://i.imgur.com/hUPSWVV.gif" width="100%" alt="Movie Watchlist App"/>
+          </a>
+        </p>
+        <p align="center">
+          Type-safe movie tracking platform with personalized recommendations
+        </p>
+        <p align="center">
+          <strong>Next.js · TypeScript · Node.js · MongoDB · JWT</strong>
+        </p>
+        <p align="center">
+          <a href="https://github.com/Arshavi-03/movie-watchlist-.git" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+          </a>  
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=web"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">
+          <img src="https://img.icons8.com/color/48/000000/plant-under-sun.png" width="25"/> 
+          Virtual Herbal Garden
+        </h3>
+        <p align="center">
+          <a href="https://github.com/Manaswita10/Virtual-Herbal-Garden" target="_blank">
+            <img src="https://i.imgur.com/Q2aOhXX.gif" width="100%" alt="Virtual Herbal Garden"/>
+          </a>
+        </p>
+        <p align="center">
+          Immersive 3D experience with interactive plant models and e-commerce
+        </p>
+        <p align="center">
+          <strong>Three.js · Next.js · AWS · MongoDB · WebGL</strong>
+        </p>
+        <p align="center">
+          <a href="https://github.com/Manaswita10/Virtual-Herbal-Garden" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://youtu.be/zp1v3EghRg4?si=PV1mf2a0G2kjQsyA" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br>
+## 🔥 Project Highlights
 
-<details>
-<summary><b>🎬 Movie Watchlist App</b> - Click to expand</summary>
-<br>
+### 🎬 Movie Watchlist App
+- **Advanced Type Safety** - Comprehensive TypeScript implementation ensuring robust code quality
+- **Intelligent Recommendations** - Custom algorithm analyzing user preferences for personalized suggestions
+- **Seamless User Experience** - Mobile-first responsive design with intuitive UI/UX principles
+- **Secure Authentication Flow** - JWT implementation with HTTP-only cookies and refresh token rotation
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-A type-safe movie tracking application with personalized recommendations and JWT authentication.
-
-### ✨ Key Features
-- **Personalized Recommendations** - AI-powered movie suggestions based on user preferences
-- **Responsive Design** - Mobile-first TailwindCSS implementation for all devices
-- **Real-time Search** - Instant filtering and search functionality
-- **Secure Authentication** - JWT implementation for robust user security
-
-### 🔧 Technical Highlights
-- **Modern React Patterns** - Built with Next.js and TypeScript for type safety
-- **Optimized Database** - MongoDB Atlas for efficient data storage and retrieval
-- **RESTful Architecture** - Well-structured API design for seamless integration
-- **Performance Focused** - Optimized loading times and responsive interactions
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-</details>
-
-<details>
-<summary><b>🌿 Virtual Herbal Garden</b> - Click to expand</summary>
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <p><a href="https://youtu.be/zp1v3EghRg4?si=PV1mf2a0G2kjQsyA">📹 Watch Demo</a></p>
-</div>
-
-An immersive 3D platform showcasing herbal plants with interactive models and e-commerce functionality.
-
-### ✨ Key Achievements
-- **Enhanced User Engagement** - 75% increase in engagement with WebGL 3D models
-- **Optimized Content Delivery** - 65% reduction in latency using AWS CloudFront
-- **Revenue Generation** - Successful e-commerce integration for plant-based products
-- **Seamless Experience** - Facilitated 200+ expert consultations through the platform
-
-### 🔧 Technical Innovations
-- **3D Rendering** - Custom Three.js implementation for immersive plant visualization
-- **Cloud Architecture** - AWS S3 for model management with optimized delivery
-- **Security Implementation** - JWT tokens and bcrypt hashing with zero security breaches
-- **Database Optimization** - Advanced querying reducing load times by 40%
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-</details>
+### 🌿 Virtual Herbal Garden
+- **3D Optimization Revolution** - 75% increase in user engagement through optimized 3D rendering
+- **Cloud Architecture Excellence** - AWS implementation reducing content delivery latency by 65%
+- **Database Performance Engineering** - Custom MongoDB indexing reducing load times by 40%
+- **Security Protocol Implementation** - Zero breaches across 50K+ user sessions with robust auth system
 
 ---
 
