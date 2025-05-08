@@ -36,34 +36,34 @@ I'm a Computer Science student at Narula Institute of Technology with a passion 
 </div>
 
 <div align="center">
-  <img src="https://github.com/Manaswita10/Manaswita10/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <table align="center" border="0">
   <tr>
     <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="60px" height="60px" alt="Frontend"/>
+      <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="100px" height="100px" alt="Frontend"/>
       <br />
       <strong>Frontend</strong>
       <br />
       <span>User-Centric Design</span>
     </td>
     <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="60px" height="60px" alt="Backend"/>
+      <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100px" height="100px" alt="Backend"/>
       <br />
       <strong>Backend</strong>
       <br />
       <span>Robust Architecture</span>
     </td>
     <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="60px" height="60px" alt="DevOps"/>
+      <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="100px" height="100px" alt="DevOps"/>
       <br />
       <strong>DevOps</strong>
       <br />
       <span>CI/CD Pipeline Maestro</span>
     </td>
     <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="60px" height="60px" alt="Cloud"/>
+      <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" width="100px" height="100px" alt="Cloud"/>
       <br />
       <strong>Cloud</strong>
       <br />
